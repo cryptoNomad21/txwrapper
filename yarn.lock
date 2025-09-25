@@ -1049,7 +1049,7 @@ __metadata:
     standard-version: ^9.1.1
     ts-node: ^9.0.0
     typedoc: ^0.20.32
-    typedoc-plugin-markdown: ^3.6.0
+    typedoc-plugin-markdown: ^4.9.0
   languageName: unknown
   linkType: soft
 
@@ -8055,14 +8055,12 @@ fsevents@^2.1.2:
   languageName: node
   linkType: hard
 
-"typedoc-plugin-markdown@npm:^3.6.0":
-  version: 3.7.2
-  resolution: "typedoc-plugin-markdown@npm:3.7.2"
-  dependencies:
-    handlebars: ^4.7.7
+"typedoc-plugin-markdown@npm:^4.9.0":
+  version: 4.9.0
+  resolution: "typedoc-plugin-markdown@npm:4.9.0"
   peerDependencies:
-    typedoc: ">=0.20.0"
-  checksum: 77f85b8fff2b936d9c258c45c96a5f054c8c1bfbdf97ed0ff44dca870f0dcf16bb85724a8e2ca949c6008ba279695159a97d6538c79aad689df08e173e7ffff1
+    typedoc: 0.28.x
+  checksum: 70fa4c27a4ad6655f68036f077cad419818e4a176391eb03ed7bf7dd25468915afe6120e0055fea3b30ee066e4322d462e38e71f36b665ff4ef543c4c2bcbbde
   languageName: node
   linkType: hard
 
